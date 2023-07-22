@@ -1,0 +1,21 @@
+﻿﻿@using BOL;
+
+@{
+    ViewData["Title"] = "Deleting";
+}
+
+<div class="text-center">
+    <h3 class="display-4">-: Please Enter A Valid Product ID To Delete :- </h3>
+</div>
+<div>
+
+    <form action="/Home/Delete" method="post">
+        <div class="mb-3">
+            <label for="id" class="form-label">Employee ID</label>
+            <input type="text" class="form-control" id="id" name="id" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Remove</button>
+    </form>
+
+
+</div>

@@ -1,0 +1,40 @@
+﻿﻿@using BOL;
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="text-center">
+    <h1 class="display-4">List Of Products</h1>
+    <p>#Unity Is Strength !</p>
+</div>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Product Name</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">Category</th>
+                <th scope="col">Price</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                @foreach (Product P in ViewBag.Products)
+                {
+                    <tr>
+                        <td>@P.ID</td>
+                        <td>@P.Name</td>
+                        <td>@P.Quantity</td>
+                        <td>@P.CATEGORY</td>
+                        <td>@P.Price</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+    <div />
+    
+
