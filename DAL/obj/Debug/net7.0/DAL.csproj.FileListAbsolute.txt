@@ -1,0 +1,15 @@
+G:\Bhag_Harsh\HRWeb\DAL\bin\Debug\net7.0\DAL.deps.json
+G:\Bhag_Harsh\HRWeb\DAL\bin\Debug\net7.0\DAL.dll
+G:\Bhag_Harsh\HRWeb\DAL\bin\Debug\net7.0\DAL.pdb
+G:\Bhag_Harsh\HRWeb\DAL\bin\Debug\net7.0\BOL.dll
+G:\Bhag_Harsh\HRWeb\DAL\bin\Debug\net7.0\BOL.pdb
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\DAL.dll
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\refint\DAL.dll
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\DAL.pdb
+G:\Bhag_Harsh\HRWeb\DAL\obj\Debug\net7.0\ref\DAL.dll
